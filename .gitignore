@@ -1,4 +1,15 @@
-*
+_travis*
+.sonarlint
+.venv*
+.vscode*
+
+
+*.h5
+
+!data/
+!data/extract_data*
+!data/*
+!data/*
 !setup.cfg
 !*.css
 !*.ico
